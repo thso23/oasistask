@@ -24,7 +24,7 @@ Level 1 consists of three projects that helped me gain a foundational understand
 * Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/T2-%20Portfolio%20Website).
 * ScreenShots:
 ![Screenshot (1)](https://github.com/thso23/oasistask/assets/110766200/be006c12-5474-44db-bab8-30d7b8fd8242)
-![Screenshot 2023-10-04 171745](https://github.com/ripper06/OIBSIP/assets/138066281/e96f1006-561f-42d6-ab45-914997f1a0fd)
+![Screenshot (3)](https://github.com/thso23/oasistask/assets/110766200/7fbb18f2-c4e6-4055-b6f9-c57e6300335e)
 ![Screenshot (2)](https://github.com/thso23/oasistask/assets/110766200/3f971ac7-19cc-4e41-9486-c1f6e8ad6704)
 
 
