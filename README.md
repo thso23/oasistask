@@ -23,10 +23,9 @@ Level 1 consists of three projects that helped me gain a foundational understand
 * Deployment: The page is deployed on Vercel at [Portfolio Website](https://portfolio-website-ra59s6dq5-ripper06s-projects.vercel.app/).
 * Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/ripper06/OIBSIP/tree/main/T2-%20Portfolio%20Website).
 * ScreenShots:
-  
-![Screenshot 2023-10-04 171618](https://github.com/ripper06/OIBSIP/assets/138066281/3dc0310d-bcfe-45b3-b5dd-4fb94e490549)
+![Screenshot (1)](https://github.com/thso23/oasistask/assets/110766200/be006c12-5474-44db-bab8-30d7b8fd8242)
 ![Screenshot 2023-10-04 171745](https://github.com/ripper06/OIBSIP/assets/138066281/e96f1006-561f-42d6-ab45-914997f1a0fd)
-![Screenshot 2023-10-04 171928](https://github.com/ripper06/OIBSIP/assets/138066281/e788dce9-047d-43e8-bfb6-f733431aae79)
+![Screenshot (2)](https://github.com/thso23/oasistask/assets/110766200/3f971ac7-19cc-4e41-9486-c1f6e8ad6704)
 
 
 3. Project 3
